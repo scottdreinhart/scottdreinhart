@@ -78,10 +78,10 @@
 ---
 
 ### My publications:
-[udemy]: http://www.tempdomain.com
-[webdevplaylist]: https://www.tempdomain.com
-[jsplaylist]: https://www.youtube.com/playlist?list=##################################
-[cssplaylist]: https://www.youtube.com/playlist?list=################################
-[reactplaylist]: https://www.youtube.com/playlist?list=##################################
+<a href="http://www.tempdomain.com">[udemy]</a>
+<a href="https://www.tempdomain.com">[webdevplaylist]</a>
+<a href="https://www.youtube.com/playlist?list=##################################">[jsplaylist]</a>
+<a href="https://www.youtube.com/playlist?list=################################">[cssplaylist]</a>
+<a href="https://www.youtube.com/playlist?list=##################################">[reactplaylist]</a>
 <br />
 <br />
