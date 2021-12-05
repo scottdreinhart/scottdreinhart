@@ -4,9 +4,6 @@
 - 👯 I’m looking to collaborate on ... ReactJS
 - 🤔 I’m looking for help with ... Novel ReactJS Projects
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter](https://twitter.com/scottdreinhart)
-- 📫 Also on YouTube: ... [YouTube](http://)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Japanese 🇯🇵 and Bavarian 🇩🇪
 
 ### Languages:
