@@ -27,7 +27,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" height="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" height="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="c#" width="26px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png" />
+<img align="left" alt="c#" width="26px" src="https://user-images.githubusercontent.com/19507241/64484929-d4b1cd80-d236-11e9-8bbe-1872b473bd64.png" />
 <img align="left" alt=".net" width="26px" src="https://w0.pngwave.com/png/385/581/brand-logo-microsoft-net-and-sap-microsoft-lumia-paperback-framework-icon-png-clip-art.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
