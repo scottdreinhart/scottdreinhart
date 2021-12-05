@@ -1,8 +1,5 @@
 ### My name is Scott Reinhart and I'm a full stack developer! 👋
-- 🔭 I’m currently working at ... [not disclosed]
-- 🌱 I’m currently teaching ... ReactJS
 - 👯 I’m looking to collaborate on ... ReactJS
-- 🤔 I’m looking for help with ... Novel ReactJS Projects
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I am Japanese 🇯🇵 and Bavarian 🇩🇪
 
